@@ -389,7 +389,9 @@ footer {
 
 .hidden {
   opacity: 0; }
-
+  .text-bold{
+    font-weight: bolder;
+  }
 .z-position {
   z-index: 10; }
 
@@ -470,6 +472,8 @@ footer {
     top: 230px; }
 
   p {
-    text-align: justify; } }
+    text-align: justify; }
+  
+  }
 
 /*# sourceMappingURL=main.css.map */
